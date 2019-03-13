@@ -1,18 +1,3 @@
-//
-//  AlertViewLoveNotification.swift
-//  AlertViewLoveNotification
-//
-//  Created by Philippe on 07/10/2016.
-//  Copyright © 2016 CookMinute. All rights reserved.
-//
-
-//
-//  AlertOnboarding.swift
-//  AlertOnboarding
-//
-//  Created by Philippe Boisney on 23/06/2016.
-//  Copyright © 2016 Philippe Boisney. All rights reserved.
-//
 
 
 import UIKit
